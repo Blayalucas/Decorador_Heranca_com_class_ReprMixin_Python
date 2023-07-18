@@ -1,0 +1,1 @@
+# Decorador_Heranca_com_class_ReprMixin_Python
