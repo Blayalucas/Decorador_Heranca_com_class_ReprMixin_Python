@@ -32,7 +32,7 @@ class Moto (MyReprMixin): # Classe "Neta" herda o repr
 
 # Passo 5 - Instancia por modelos de automoveis 
 hb20 = Veiculo ( "HB20")
-onix = Veiculo ("Portugal")
+onix = Veiculo ("Onix")
 
 hornet = Moto ("Hornet")
 xj6 = Moto ("XJ6")
